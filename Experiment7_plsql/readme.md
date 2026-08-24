@@ -52,8 +52,7 @@ END;
 ## Output:
 <img width="460" height="125" alt="Screenshot 2026-08-24 090028" src="https://github.com/user-attachments/assets/32b6596d-9130-4e5d-ab72-00cd1e6669e4" />
 
-
-
+---
 
 ## 2. Write a PL/SQL program to Calculate Sum of First N Natural Numbers
 
